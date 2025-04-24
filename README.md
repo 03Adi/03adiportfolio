@@ -77,25 +77,27 @@ Hey there! I’m **Aditya Prakash Pandey**, a Software Engineer at [OWY Technosy
 - yarn lint	Run ESLint
 
 ## 📦 Dependencies
-This project includes powerful tools & libraries like:
+- This project includes powerful tools & libraries like:
 
-next, react, react-dom
+- next, react, react-dom
 
-framer-motion, lucide-react
+- framer-motion, lucide-react
 
-three.js (for 3D rendering)
+- three.js (for 3D rendering)
 
-@netlify/plugin-nextjs (Netlify optimization)
+- @netlify/plugin-nextjs (Netlify optimization)
 
-tailwindcss, aos, react-scroll
+- tailwindcss, aos, react-scroll
 
-@vercel/speed-insights, @vercel/analytics
+- @vercel/speed-insights, @vercel/analytics
 
-📄 View full list in package.json
+- 📄 View full list in package.json
 
-📄 Resume
-📎 View Resume (PDF)
-(You can update the path if needed)
+---
+
+## 📄 Resume
+- 📎 View Resume (PDF)
+- (You can update the path if needed)
 
 📬 Get In Touch
 I'm always open to:
