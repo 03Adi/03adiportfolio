@@ -100,13 +100,15 @@ tailwindcss, aos, react-scroll
 📬 Get In Touch
 I'm always open to:
 
-📌 Collaborations
+---
 
-💡 New ideas
+## 📌 Collaborations
 
-☕️ Casual tech talk
+- 💡 New ideas
 
-📧 Email: adityadeveloper03@gmail.com
+- ☕️ Casual tech talk
+
+- 📧 Email: adityadeveloper03@gmail.com
 
 ---
 
