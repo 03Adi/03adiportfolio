@@ -108,11 +108,13 @@ I'm always open to:
 
 📧 Email: adityadeveloper03@gmail.com
 
-🧑‍💻 Author
-Aditya Prakash Pandey
-🛠 Built with ❤️ using Next.js, TypeScript, and Yarn
-🔗 GitHub: @03Adi
-📸 Instagram: @dev_aditya_03
+---
+
+## 🧑‍💻 Author
+- Aditya Prakash Pandey
+- 🛠 Built with ❤️ using Next.js, TypeScript, and Yarn
+- 🔗 GitHub: @03Adi
+- 📸 Instagram: @dev_aditya_03
 
 ---
 
