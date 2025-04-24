@@ -66,3 +66,50 @@ Hey there! I’m **Aditya Prakash Pandey**, a Software Engineer at [OWY Technosy
 
 🌐 Open your browser at http://localhost:3000
 
+🛠 Scripts
+
+Command	Description
+yarn dev	Start development server
+yarn build	Build project (lint disabled)
+yarn start	Start production server
+yarn lint	Run ESLint
+📦 Dependencies
+This project includes powerful tools & libraries like:
+
+next, react, react-dom
+
+framer-motion, lucide-react
+
+three.js (for 3D rendering)
+
+@netlify/plugin-nextjs (Netlify optimization)
+
+tailwindcss, aos, react-scroll
+
+@vercel/speed-insights, @vercel/analytics
+
+📄 View full list in package.json
+
+📄 Resume
+📎 View Resume (PDF)
+(You can update the path if needed)
+
+📬 Get In Touch
+I'm always open to:
+
+📌 Collaborations
+
+💡 New ideas
+
+☕️ Casual tech talk
+
+📧 Email: adityadeveloper03@gmail.com
+
+🧑‍💻 Author
+Aditya Prakash Pandey
+🛠 Built with ❤️ using Next.js, TypeScript, and Yarn
+🔗 GitHub: @03Adi
+📸 Instagram: @dev_aditya_03
+
+📜 License
+© 2025 Aditya Prakash Pandey. All rights reserved.
