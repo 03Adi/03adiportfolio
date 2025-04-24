@@ -116,7 +116,3 @@ Aditya Prakash Pandey
 
 
 ---
-
-Just save this as `README.md` in your repo root folder and you’re good to go!
-
-Would you like me to include Netlify deploy status badges or maybe a screenshot section too?
