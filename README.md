@@ -70,11 +70,11 @@ Hey there! I’m **Aditya Prakash Pandey**, a Software Engineer at [OWY Technosy
 
 ## 🛠 Scripts
 
-Command	Description
-yarn dev	Start development server
-yarn build	Build project (lint disabled)
-yarn start	Start production server
-yarn lint	Run ESLint
+- Command	Description
+- yarn dev	Start development server
+- yarn build	Build project (lint disabled)
+- yarn start	Start production server
+- yarn lint	Run ESLint
 
 ## 📦 Dependencies
 This project includes powerful tools & libraries like:
