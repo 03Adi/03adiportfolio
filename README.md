@@ -99,8 +99,8 @@ Hey there! I’m **Aditya Prakash Pandey**, a Software Engineer at [OWY Technosy
 - 📎 View Resume (PDF)
 - (You can update the path if needed)
 
-📬 Get In Touch
-I'm always open to:
+## 📬 Get In Touch
+- I'm always open to:
 
 ---
 
