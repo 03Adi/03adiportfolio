@@ -115,8 +115,8 @@ Hey there! I’m **Aditya Prakash Pandey**, a Software Engineer at [OWY Technosy
 ## 🧑‍💻 Author
 - Aditya Prakash Pandey
 - 🛠 Built with ❤️ using Next.js, TypeScript, and Yarn
-- 🔗 GitHub: @03Adi
-- 📸 Instagram: @dev_aditya_03
+- 🔗 GitHub: 03Adi
+- 📸 Instagram: adityaprakashpandey_03
 
 ---
 
