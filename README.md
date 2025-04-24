@@ -75,7 +75,8 @@ yarn dev	Start development server
 yarn build	Build project (lint disabled)
 yarn start	Start production server
 yarn lint	Run ESLint
-📦 Dependencies
+
+## 📦 Dependencies
 This project includes powerful tools & libraries like:
 
 next, react, react-dom
