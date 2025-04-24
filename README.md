@@ -59,8 +59,12 @@ Hey there! I’m **Aditya Prakash Pandey**, a Software Engineer at [OWY Technosy
 
 To run locally:
 
-```bash
-git clone https://github.com/03Adi/my-website.git
-cd my-website
-yarn install
-yarn dev
+/ ```bash
+   git clone https://github.com/03Adi/my-website.git
+   cd my-website
+   yarn instal
+   yarn dev
+
+
+🌐 Open your browser at http://localhost:3000
+
