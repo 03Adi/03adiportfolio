@@ -102,9 +102,7 @@ Hey there! I’m **Aditya Prakash Pandey**, a Software Engineer at [OWY Technosy
 ## 📬 Get In Touch
 - I'm always open to:
 
----
-
-## 📌 Collaborations
+- 📌 Collaborations
 
 - 💡 New ideas
 
