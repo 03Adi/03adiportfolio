@@ -114,7 +114,9 @@ Aditya Prakash Pandey
 🔗 GitHub: @03Adi
 📸 Instagram: @dev_aditya_03
 
-📜 License
+---
+
+## 📜 License
 © 2025 Aditya Prakash Pandey. All rights reserved.
 
 
