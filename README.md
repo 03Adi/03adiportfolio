@@ -66,7 +66,7 @@ Hey there! I’m **Aditya Prakash Pandey**, a Software Engineer at [OWY Technosy
 
 🌐 Open your browser at http://localhost:3000
 
-🛠 Scripts
+## 🛠 Scripts
 
 Command	Description
 yarn dev	Start development server
