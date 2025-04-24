@@ -113,3 +113,10 @@ Aditya Prakash Pandey
 
 📜 License
 © 2025 Aditya Prakash Pandey. All rights reserved.
+
+
+---
+
+Just save this as `README.md` in your repo root folder and you’re good to go!
+
+Would you like me to include Netlify deploy status badges or maybe a screenshot section too?
